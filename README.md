@@ -1,8 +1,7 @@
 # ようこそ私のGITHUBへ😉
+![cylinder](https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=李孝斌と申します。&fontAlignY=45&fontSize=40&height=150&animation=blinking&desc=desc%20is%20also%20animated&descAlignY=70)
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=私の名前はイヒョビンと申します。。;"></a>
-</p>
+
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Notion-black?style=square&logo=Notion&logoColor=white"/></a>  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lifetime&show_icons=true&theme=gruvbox_light)
