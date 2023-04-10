@@ -4,8 +4,11 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=私の名前はイヒョビンと申します。。;"></a>
 </p>
 
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Notion-black?style=square&logo=Notion&logoColor=white"/></a>  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lifetime&show_icons=true&theme=gruvbox_light)
+---
+![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyobinaaa&show_icons=true&theme=tokyonight) 
 
-![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyobinaaa&show_icons=true&theme=tokyonight)
 
 
 # 💪Skills
