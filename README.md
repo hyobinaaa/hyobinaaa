@@ -3,8 +3,7 @@
 
 
 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Notion-black?style=square&logo=Notion&logoColor=white"/></a>  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lifetime&show_icons=true&theme=gruvbox_light)
+
 ---
 ![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyobinaaa&show_icons=true&theme=tokyonight) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyobinaaa&langs_count=8)](https://github.com/hyobinaaa/github-readme-stats)
