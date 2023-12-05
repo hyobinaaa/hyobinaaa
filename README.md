@@ -17,7 +17,7 @@
 
 # 💪Skills
 ### Platforms & Languages
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,vue,react,vscode,tailwind,figma,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,vue,react,vscode,tailwind,bootstrap,figma,git,github)](https://skillicons.dev)
 
 
 
